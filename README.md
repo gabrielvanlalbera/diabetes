@@ -1,2 +1,3 @@
 # diabetes
-Diabetes pred
+Diabetes prediction 
+
